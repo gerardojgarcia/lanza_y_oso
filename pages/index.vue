@@ -15,11 +15,6 @@
             <h1 class="text-5xl text-black hidden md:block">Lanza y Oso</h1>
             <p class="px-2 md:px-0 md:w-3/4">
                 is a multidisciplinary art studio founded by Gerardo García.
-                Each piece is a reflection of the warmth of our heritage, the
-                echoes of stories passed down through generations, and the
-                journey to uncover what’s been lost. At Lanza y Oso, we use
-                colors, textures, and forms to tell stories of identity,
-                belonging, and the enduring ties to our ancestry.
             </p>
             <NuxtLink to="/art" class="group">
                 <NuxtImg
