@@ -2,9 +2,9 @@
 <template>
   <div>
     <div class="grid md:grid-cols-2 mt-32 pb-12 px-12">
-      <div class="text-black space-y-4">
-        <h1 class="text-5xl hidden md:block">Lanza y Oso</h1>
-        <p class="px-2 md:px-0 md:w-3/4">
+      <div class="text-black flex flex-col items-center justify-center  space-y-4 ">
+        <h1 class="text-5xl hidden md:block self-start">Lanza y Oso</h1>
+        <p class="px-2 text-xl md:px-0 md:w-3/4">
           is a multidisciplinary art studio founded by Gerardo García.
         </p>
 
