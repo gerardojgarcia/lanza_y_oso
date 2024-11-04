@@ -1,9 +1,9 @@
 <script setup>
-  
+
 </script>
 <template>
-  <div>
-    <Header/>
-    <slot/>
+  <div class="h-screen">
+    <Header />
+    <slot />
   </div>
 </template>
