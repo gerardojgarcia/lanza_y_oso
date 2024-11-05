@@ -3,5 +3,6 @@
   <div>
     <Hero />
     <About />
+    <ArtSection />
   </div>
 </template>

@@ -34,10 +34,11 @@
 
 
       </div>
-      <div class="about-images flex md:flex-row flex-col justify-center items-center p-8 ">
-        <NuxtImg src="/cempasuchil_oil.png" sizes="sm:100vw lg:10vw" class="h-[50vh] " />
+      <div class="about-images flex md:flex-row flex-col justify-center p-8 ">
+        <NuxtImg src="/cempasuchil_oil.png" sizes="sm:100vw lg:10vw" class="h-[50vh] translate-y-12 shadow-lg">
+        </NuxtImg>
         <NuxtImg src="/abrazo_de_agave.png" sizes="sm:100vw lg:10vw"
-          class="translate-y-64 -translate-x-32 z-3 h-[50vh] " />
+          class="translate-y-64 -translate-x-32 z-3 h-[50vh] shadow-lg"></NuxtImg>
       </div>
     </div>
   </section>
