@@ -4,5 +4,6 @@
     <Hero />
     <About />
     <ArtSection />
+    <ArtSale />
   </div>
 </template>

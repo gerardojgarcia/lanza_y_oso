@@ -4,7 +4,9 @@ export const collection = ref([
     title: "Self Help Graphics",
     image: "/art/self_help_graphics.webp",
     link:"/",
-    description: "Illustration of Self Help Graphics"
+    description: "Illustration of Self Help Graphics",
+    price: "25",
+    size: "11 x 17 "
 
   },
 {
@@ -40,7 +42,7 @@ export const collection = ref([
 
   },
   {
-    id: 2,
+    id: 6,
     title: "Gummo Bunny",
     image: "/art/gummo_.webp",
     link:"/",
