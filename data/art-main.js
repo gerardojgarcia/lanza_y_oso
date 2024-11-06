@@ -17,7 +17,7 @@ export const homeArt = ref([
     image: "/abrazo_de_agave.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
-    price: "25",
+    price: "45",
     size: "8 x 10 ",
     medium: "Linoprint"
 
@@ -40,8 +40,8 @@ export const homeArt = ref([
     image: "/jornaleros_en_el_campo.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
-    price: "25",
-    size: "11 x 17 ",
+    price: "45",
+    size: "8 x 10 ",
     medium: "Linoprint"
 
   },
