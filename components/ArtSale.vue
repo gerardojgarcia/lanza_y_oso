@@ -1,5 +1,10 @@
 <script setup>
 import homeArt from "/data/art-main.js"
+
+
+
+
+
 </script>
 <template>
   <div class="py-16">
@@ -19,8 +24,6 @@ import homeArt from "/data/art-main.js"
 
         <NuxtLink to="/" class="font-bold hover:text-red-300 text-xl">Purchase</NuxtLink>
       </div>
-
-
     </div>
 
     <NuxtLink to="/art" class="text-5xl hover:text-red-300 animate-pulse py-4">see more</NuxtLink>
