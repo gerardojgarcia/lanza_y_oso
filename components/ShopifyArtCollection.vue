@@ -25,7 +25,7 @@ onMounted(() => {
 
     ShopifyBuy.UI.onReady(client).then((ui) => {
       ui.createComponent('collection', {
-        id: '438283436268',  // Replace with your actual collection ID
+        id: '438283436268',  //  collection ID
         node: document.getElementById(componentId.value),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
