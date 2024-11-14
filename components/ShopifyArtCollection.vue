@@ -156,7 +156,7 @@ onMounted(() => {
 })
 </script>
 <template>
-  <div id='componentId' class="w-full">
+  <div id='componentId' class="w-full ">
 
   </div>
 </template>
