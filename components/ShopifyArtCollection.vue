@@ -33,10 +33,10 @@ onMounted(() => {
             styles: {
               product: {
                 '@media (min-width: 601px)': {
-                  'max-width': 'calc(25% - 20px)',
-                  'margin-left': '20px',
+                  'max-width': 'calc(33.3333% - 30px)',
+                  'margin-left': '30px',
                   'margin-bottom': '50px',
-                  width: 'calc(25% - 20px)',
+                  width: 'calc(33.3333% - 30px)',
                 },
                 img: {
                   height: 'calc(100% - 15px)',
@@ -156,7 +156,7 @@ onMounted(() => {
 })
 </script>
 <template>
-  <div id='componentId' class="w-full ">
+  <div :id='componentId' class="w-full ">
 
   </div>
 </template>

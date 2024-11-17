@@ -5,7 +5,7 @@
       <div class="text-black flex flex-col items-center justify-center  space-y-4 ">
         <h1 class="text-5xl hidden md:block self-start">Lanza y Oso</h1>
         <p class="px-2 text-xl md:px-0 md:w-3/4">
-          a multidisciplinary art studio founded by Gerardo García.
+          a multidisciplinary art studio in East Los Angeles founded by Gerardo García.
         </p>
 
       </div>

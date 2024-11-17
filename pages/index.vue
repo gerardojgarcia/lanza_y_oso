@@ -4,6 +4,11 @@
     <Hero />
     <About />
     <ArtSection />
-    <ArtSale />
+    <!--  <ArtSale />-->
+    <ClientOnly>
+      <ShopifyArtHome />
+    </ClientOnly>
+
+
   </div>
 </template>
