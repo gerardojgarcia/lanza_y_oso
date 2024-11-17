@@ -1,14 +1,13 @@
 <script setup></script>
 <template>
-  <div>
-    <Hero />
-    <About />
-    <ArtSection />
-    <!--  <ArtSale />-->
-    <ClientOnly>
-      <ShopifyArtHome />
-    </ClientOnly>
-
-
-  </div>
+    <div>
+        <Hero />
+        <About />
+        <ArtSection />
+        <AppBanner />
+        <!--  <ArtSale />-->
+        <ClientOnly>
+            <ShopifyArtHome />
+        </ClientOnly>
+    </div>
 </template>
