@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <header class="flex w-full justify-evenly items-center p-2 fixed top-0 bg-white z-10">
+  <header class="flex  flex-col  h-[50vh]   justify-evenly items-center p-2 bg-white z-10">
     <TheNav />
 
     <NuxtLink to="/">

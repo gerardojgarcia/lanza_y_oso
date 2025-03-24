@@ -67,7 +67,28 @@ export const homeArt = ref([
     medium: 'Print',
 
   },
+ {
+    id: 7,
+    title: "Timewasters",
+    image: "/art/timewasters.webp",
+    link:"/",
+    description: "Linoprint of workers harvesting agave in a field",
+    price: "100",
+    size: "11 x 17 ",
+    medium: 'Linoprint',
 
+  },
+   {
+    id: 8,
+    title: "The Big Show",
+    image: "/art/thebigshow.webp",
+    link:"/",
+    description: "Illustration of Self Help Graphics",
+    price: "25",
+    size: "11 x 17 ",
+    medium: 'Print',
+
+  },
 	])
 
 export default homeArt

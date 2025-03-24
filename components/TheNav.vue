@@ -3,7 +3,7 @@
 </script>
 <template>
   <div>
-    <nav class="flex space-x-4">
+    <nav class="flex flex-col space-y-4">
       <!-- <NuxtLink to="/">Home</NuxtLink>-->
       <NuxtLink to="/art" class="hover:text-blue-200">Art</NuxtLink>
       <NuxtLink to="/furniture" class="hover:text-blue-200">Furniture</NuxtLink>
