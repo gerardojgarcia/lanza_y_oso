@@ -13,13 +13,7 @@
           Garcia is a Spanish surname with origins in the Basque country, where it often means “bear” or "oso"
           This heritage blends both strength and instinct, qualities that lie at the heart of my art
           studio, Lanza y Oso. </p>
-        <p>
-          This studio is a space for embracing this side of myself, and I hope it becomes a place where others can
-          connect to their own creativity and inner voice. Here, I aim to help people find their own way of
-          communicating the inexpressible, of experiencing and sharing their truths without the need for words. In art,
-          we find a freedom and clarity that lets us express what lies beyond language, and in doing so, we connect with
-          others in a deeply authentic way.
-        </p>
+
         <NuxtImg src="/lanzayoso_logo_small.png" width="100px" class="self-center" />
 
 

@@ -2,7 +2,7 @@
 
 </script>
 <template>
-  <div class="grid  md:grid-cols-2 h-screen">
+  <div class="flex flex-col md:flex-row">
 
     <Header />
 

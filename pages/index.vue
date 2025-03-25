@@ -1,6 +1,6 @@
 <script setup></script>
 <template>
-  <div class="h-screen">
+  <div>
     <!--<Hero />-->
     <!--<About />-->
     <!-- <ArtSection />-->

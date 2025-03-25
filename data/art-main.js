@@ -2,8 +2,8 @@ export const homeArt = ref([
 
  {
     id: 1,
-    title: "Self Help Graphics",
-    image: "/art/self_help_graphics.webp",
+    title: "Mujer Con Nopales",
+    image: "/mujer_con_nopales.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
     price: "25",
@@ -25,13 +25,13 @@ export const homeArt = ref([
   },
   {
     id: 3,
-    title: "On the Way",
-    image: "/ontheway.jpg",
+    title: "The Nude",
+    image: "/the_nude.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
-    price: "25",
+    price: "225",
     size: "11 x 17 ",
-    medium: "Print"
+    medium: "Oil Pastels"
 
   },
   {
@@ -40,7 +40,7 @@ export const homeArt = ref([
     image: "/jornaleros_en_el_campo.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
-    price: "45",
+    price: "75",
     size: "8 x 10 ",
     medium: "Linoprint"
 
@@ -51,31 +51,31 @@ export const homeArt = ref([
     image: "/senorita_flowers.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
-    price: "25",
+    price: "325",
     size: "11 x 17 ",
     medium: "Oil"
 
   },
   {
     id: 6,
-    title: "Self Help Graphics",
-    image: "/art/self_help_graphics.webp",
+    title: "Jenny In Blue",
+    image: "/jenny_in_blue.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
-    price: "25",
+    price: "1125",
     size: "11 x 17 ",
-    medium: 'Print',
+    medium: 'Acrylic',
 
   },
  {
     id: 7,
-    title: "Timewasters",
-    image: "/art/timewasters.webp",
+    title: "Naranjas",
+    image: "/dos_naranjas.png",
     link:"/",
     description: "Linoprint of workers harvesting agave in a field",
-    price: "100",
+    price: "200",
     size: "11 x 17 ",
-    medium: 'Linoprint',
+    medium: 'Acrylic',
 
   },
    {
@@ -84,6 +84,39 @@ export const homeArt = ref([
     image: "/art/thebigshow.webp",
     link:"/",
     description: "Illustration of Self Help Graphics",
+    price: "75",
+    size: "11 x 17 ",
+    medium: 'Illustration',
+
+  },
+  {
+    id: 9,
+    title: "Mujer y La Noche",
+    image: "/mujer_y_la_noche.png",
+    link:"/",
+    description: "Woman who cannot sleep, sits by the window in her kitchen. the glow of the comal lights the room",
+    price: "825",
+    size: "11 x 17 ",
+    medium: 'Acrylic',
+
+  },
+   {
+    id: 10,
+    title: "Trensas",
+    image: "/trensas.png",
+    link:"/",
+    description: "A woman standing with her back facing the audience, her hair is done in braids",
+    price: "25",
+    size: "11 x 17 ",
+    medium: 'Print',
+
+  },
+  {
+    id: 11,
+    title: "Benjamin",
+    image: "/mi_abuelito_benjamin.png",
+    link:"/",
+    description: "A woman standing with her back facing the audience, her hair is done in braids",
     price: "25",
     size: "11 x 17 ",
     medium: 'Print',

@@ -5,9 +5,10 @@
   <div>
     <nav class="flex flex-col space-y-4">
       <!-- <NuxtLink to="/">Home</NuxtLink>-->
-      <NuxtLink to="/art" class="hover:text-blue-200">Art</NuxtLink>
+      <NuxtLink to="/" class="hover:text-blue-200">Art</NuxtLink>
       <NuxtLink to="/furniture" class="hover:text-blue-200">Furniture</NuxtLink>
-      <NuxtLink to="/learn" class="hover:text-blue-200">Learn</NuxtLink>
+      <NuxtLink to="/photography" class="hover:text-blue-200">Photography</NuxtLink>
+      <NuxtLink to="/about" class="hover:text-blue-200">About</NuxtLink>
     </nav>
 
   </div>

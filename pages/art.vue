@@ -7,9 +7,6 @@ import { collection } from "./data/art.js";
 <template>
   <div class=" mt-32">
     <AppBackButton />
-    <ClientOnly>
-      <ShopifyArtCollection />
-
-    </ClientOnly>
+    <ArtSale />
   </div>
 </template>
