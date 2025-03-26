@@ -27,6 +27,13 @@ export const furniture = ref([
     link: "/",
     price: "300"
   },
+  {
+    id: 5,
+    title: 'Bench - 01',
+    image: "/furniture/eno_bench_4_edited.png",
+    link: "/",
+    price: "300"
+  },
 
 
 

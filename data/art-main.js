@@ -122,6 +122,39 @@ export const homeArt = ref([
     medium: 'Print',
 
   },
+  {
+    id: 12,
+    title: "Golden Gate Bridge",
+    image: "/golden_gate_bridge.png",
+    link:"/",
+    description: "A woman standing with her back facing the audience, her hair is done in braids",
+    price: "25",
+    size: "11 x 17 ",
+    medium: 'Print',
+
+  },
+  {
+    id: 13,
+    title: "Horse Flats",
+    image: "/horse_flats.png",
+    link:"/",
+    description: "A woman standing with her back facing the audience, her hair is done in braids",
+    price: "25",
+    size: "11 x 17 ",
+    medium: 'Oil Pastels',
+
+  },
+  {
+    id: 14,
+    title: "Day at the Beach",
+    image: "/day_at_the_beach.png",
+    link:"/",
+    description: "A woman standing with her back facing the audience, her hair is done in braids",
+    price: "25",
+    size: "11 x 17 ",
+    medium: 'Print',
+
+  },
 	])
 
 export default homeArt
