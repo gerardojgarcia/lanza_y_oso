@@ -5,7 +5,7 @@ export const photographs = ref([
     img: "/photographs/alley-flowers.png",
     video: "./video.webm",
     tags: ["html", "css", "Javascript", "Vue3", "Nuxt3"],
-    link: " ",
+    link: "/",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const photographs = ref([
     img: "/photographs/beach-scene.png",
     video: "./video.webm",
     tags: ["html", "css", "Javascript", "Vue3", "Nuxt3"],
-    link: " ",
+    link: "/",
   },
   {
     id: 3,
@@ -21,9 +21,32 @@ export const photographs = ref([
     img: "/photographs/turn.png",
     video: "./video.webm",
     tags: ["html", "css", "Javascript", "Vue3", "Nuxt3"],
-    link: " ",
+    link: "/",
   },
-  
+  {
+    id: 4,
+    name: "Turn",
+    img: "/photographs/turn.png",
+    video: "./video.webm",
+    tags: ["html", "css", "Javascript", "Vue3", "Nuxt3"],
+    link: "/",
+  },
+  {
+    id: 5,
+    name: "Turn",
+    img: "/photographs/turn.png",
+    video: "./video.webm",
+    tags: ["html", "css", "Javascript", "Vue3", "Nuxt3"],
+    link: "/",
+  },
+  {
+    id: 6,
+    name: "Turn",
+    img: "/photographs/turn.png",
+    video: "./video.webm",
+    tags: ["html", "css", "Javascript", "Vue3", "Nuxt3"],
+    link: "/",
+  },
 ]);
 
 export default photographs;
