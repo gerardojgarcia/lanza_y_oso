@@ -97,7 +97,7 @@ export const homeArt = ref([
     description: "Woman who cannot sleep, sits by the window in her kitchen. the glow of the comal lights the room",
     price: "825",
     size: "11 x 17 ",
-    medium: 'Acrylic',
+    medium: 'Acrylic on Canvas',
 
   },
    {
@@ -106,9 +106,9 @@ export const homeArt = ref([
     image: "/trensas.png",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
-    price: "25",
+    price: "175",
     size: "11 x 17 ",
-    medium: 'Print',
+    medium: 'Acrylic on heavy paper',
 
   },
   {
@@ -117,9 +117,9 @@ export const homeArt = ref([
     image: "/mi_abuelito_benjamin.png",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
-    price: "25",
+    price: "325",
     size: "11 x 17 ",
-    medium: 'Print',
+    medium: 'Acrylic on heavy paper',
 
   },
   {
@@ -128,9 +128,9 @@ export const homeArt = ref([
     image: "/golden_gate_bridge.png",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
-    price: "25",
+    price: "125",
     size: "11 x 17 ",
-    medium: 'Print',
+    medium: 'Acrylic on heavy paper',
 
   },
   {
@@ -152,9 +152,75 @@ export const homeArt = ref([
     description: "A woman standing with her back facing the audience, her hair is done in braids",
     price: "25",
     size: "11 x 17 ",
-    medium: 'Print',
+    medium: 'Acrylic on heavy paper',
 
   },
+    {
+        id: 15,
+        title: "Viejo en la Cocina",
+        image: "/viejoenlacocina.png",
+        link:"/",
+        description: "old man standing in a kitchen that is lit by the dying stove's glow",
+        price: "400",
+        size: "11 x 17 ",
+        medium: 'Acrylic on Canvas',
+
+    },
+    {
+        id: 16,
+        title: "Cuerpo",
+        image: "/bodystudy.png",
+        link:"/",
+        description: "A woman standing with her back facing the audience, her hair is done in braids",
+        price: "25",
+        size: "11 x 17 ",
+        medium: 'Acrylic on Canvas',
+
+    },
+    {
+        id: 17,
+        title: "La Dama",
+        image: "/ladama.png",
+        link:"/",
+        description: "A woman standing with her back facing the audience, her hair is done in braids",
+        price: "300",
+        size: "11 x 17 ",
+        medium: 'Acrylic on Canvas',
+
+    },
+    {
+        id: 17,
+        title: "Percy",
+        image: "/vatopercy.png",
+        link:"/",
+        description: "A woman standing with her back facing the audience, her hair is done in braids",
+        price: "25",
+        size: "11 x 17 ",
+        medium: 'Acrylic on Canvas',
+
+    },
+    {
+        id: 18,
+        title: "Nude on Black",
+        image: "/nude3.png",
+        link:"/",
+        description: "A woman standing with her back facing the audience, her hair is done in braids",
+        price: "125",
+        size: "11 x 17 ",
+        medium: 'WaterColor Acrylics',
+
+    },
+    {
+        id: 18,
+        title: "La Dama 2",
+        image: "/ladamados.png",
+        link:"/",
+        description: "A woman standing with her back facing the audience, her hair is done in braids",
+        price: "225",
+        size: "11 x 17 ",
+        medium: 'Acrylic on Canvas',
+
+    },
 	])
 
 export default homeArt
