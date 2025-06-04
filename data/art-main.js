@@ -2,27 +2,53 @@ export const homeArt = ref([
 
  {
     id: 1,
-    title: "Mujer Con Nopales",
-    image: "/mujer_con_nopales.png",
+    title: "Self-Portrait 2025",
+    image: "/self-portrait-25.png",
     link:"/",
-    description: "Illustration of Self Help Graphics",
-    price: "25",
+    description: "Self Portrait in acryliic on paper",
+    price: "125",
     size: "11 x 17 ",
-    medium: "Print"
+    medium: "Acrylic on paper"
 
   },
   {
     id: 2,
-    title: "Abrazo de Agave",
-    image: "/abrazo_de_agave.png",
+    title: "Jenny at Yosemite",
+    image: "/jenny_in_tenaya.png",
     link:"/",
-    description: "Illustration of Self Help Graphics",
-    price: "45",
-    size: "8 x 10 ",
-    medium: "Linoprint"
+    description: "Jennifer in yosemite",
+    price: "285",
+    size: "11 x 14 ",
+    medium: "Acrylic on paper"
 
 
   },
+    {
+        id:20,
+        title: "Four Jars",
+        image: "/four-jars.png",
+        link:"/",
+        description: "Jennifer in yosemite",
+        price: "125",
+        size: "11 x 14 ",
+        medium: "Acrylic on paper"
+
+
+    },
+
+    {
+        id: 21,
+        title: "Abuelita Chayo",
+        image: "/abueliita-chayo.png",
+        link:"/",
+        description: "Jennifer in yosemite",
+        price: "285",
+        size: "11 x 14 ",
+        medium: "Acrylic on paper"
+
+
+    },
+
   {
     id: 3,
     title: "The Nude",
@@ -193,8 +219,8 @@ export const homeArt = ref([
         title: "Percy",
         image: "/vatopercy.png",
         link:"/",
-        description: "A woman standing with her back facing the audience, her hair is done in braids",
-        price: "25",
+        description: "A man wearing sunglasses",
+        price: "125",
         size: "11 x 17 ",
         medium: 'Acrylic on Canvas',
 
@@ -221,6 +247,17 @@ export const homeArt = ref([
         medium: 'Acrylic on Canvas',
 
     },
+    {
+    id: 19,
+    title: "Mujer Con Nopales",
+    image: "/mujer_con_nopales.png",
+    link:"/",
+    description: "Illustration of Self Help Graphics",
+    price: "125",
+    size: "11 x 17 ",
+    medium: "Acrylic on board"
+
+},
 	])
 
 export default homeArt

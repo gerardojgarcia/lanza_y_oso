@@ -13,13 +13,7 @@ export const furniture = ref([
     link: "/",
     price: "50"
   },
-  {
-    id: 3,
-    title: 'Shelf - 01',
-    image: "/furniture/dowel_shelf.webp",
-    link: "/",
-    price: "300"
-  },
+
   {
     id: 4,
     title: 'Chair - 02',
@@ -66,6 +60,20 @@ export const furniture = ref([
     id: 10,
     title: 'Chair w/ Storage - 01',
     image: "/furniture/chairwstorage.png",
+    link: "/",
+    price: "125"
+  },
+  {
+    id: 11,
+    title: 'Chest w/ Storage - 01',
+    image: "/furniture/storage.png",
+    link: "/",
+    price: "125"
+  },
+  {
+    id: 12,
+    title: 'Wall Fixture - 02',
+    image: "/furniture/wall-fixture.png",
     link: "/",
     price: "125"
   },
