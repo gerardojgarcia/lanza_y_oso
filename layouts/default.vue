@@ -2,13 +2,13 @@
 
 </script>
 <template>
-  <div class="flex flex-col md:flex-row">
+  <div>
 
     <Header />
 
     <slot />
 
-
+<Contact/>
 
   </div>
 </template>

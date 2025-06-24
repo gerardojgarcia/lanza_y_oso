@@ -2,7 +2,7 @@ export const homeArt = ref([
 
  {
     id: 1,
-    title: "Self-Portrait 2025",
+    title: "Gerardo Garcia Ruiz,  36",
     image: "/self-portrait-25.png",
     link:"/",
     description: "Self Portrait in acryliic on paper",
@@ -11,6 +11,18 @@ export const homeArt = ref([
     medium: "Acrylic on paper"
 
   },
+
+    {
+        id: 20,
+        title: "Gerardo Garcia Ruiz, 37",
+        image: "/21stcenturyfrijole.png",
+        link:"/",
+        description: "Self Portrait in acryliic on paper",
+        price: "125",
+        size: "11 x 17 ",
+        medium: "Acrylic on paper"
+
+    },
   {
     id: 2,
     title: "Jenny at Yosemite",
@@ -74,9 +86,9 @@ export const homeArt = ref([
   {
     id: 5,
     title: "Senorita con Flores",
-    image: "/senorita_flowers.png",
+    image: "/senorita_flowers.PNG",
     link:"/",
-    description: "Illustration of Self Help Graphics",
+    description: "senorita con flores",
     price: "325",
     size: "11 x 17 ",
     medium: "Oil"
@@ -176,7 +188,7 @@ export const homeArt = ref([
     image: "/day_at_the_beach.png",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
-    price: "25",
+    price: "225",
     size: "11 x 17 ",
     medium: 'Acrylic on heavy paper',
 
@@ -206,7 +218,7 @@ export const homeArt = ref([
     {
         id: 17,
         title: "La Dama",
-        image: "/ladama.png",
+        image: "/Ladamados.png",
         link:"/",
         description: "A woman standing with her back facing the audience, her hair is done in braids",
         price: "300",
@@ -239,7 +251,7 @@ export const homeArt = ref([
     {
         id: 18,
         title: "La Dama 2",
-        image: "/ladamados.png",
+        image: "/trensas.png",
         link:"/",
         description: "A woman standing with her back facing the audience, her hair is done in braids",
         price: "225",
@@ -250,7 +262,7 @@ export const homeArt = ref([
     {
     id: 19,
     title: "Mujer Con Nopales",
-    image: "/mujer_con_nopales.png",
+    image: "/Mujer_con_nopales.png",
     link:"/",
     description: "Illustration of Self Help Graphics",
     price: "125",

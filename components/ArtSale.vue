@@ -1,36 +1,44 @@
 <script setup>
-import homeArt from "/data/art-main.js"
+import { defineProps } from 'vue'
+import { homeArt } from '~/data/art-main.js'
 
-
-
-
+const props = defineProps({
+  items: {
+    type: Array,
+    default: () => homeArt
+  }
+})
 
 </script>
 <template>
-  <div class="mt-10 md:mt-0 w-full">
-    <h1 class="text-4xl font-bold">LanzayOso</h1>
+  <section class="mt-16 py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div
+            v-for="item in homeArt"
+            :key="item.id"
+            class="flex flex-col"
+        >
+          <!-- Link wrapper for each art item -->
+          <NuxtLink :to="item.link" class="w-full h-full overflow-hidden rounded-md">
+            <img
+                :src="item.image"
+                :alt="item.title"
+                class="w-full h-full object-cover transform transition-transform duration-300 hover:scale-105"
+            />
+          </NuxtLink>
 
-    <div class="art-grid-container place-items-center grid grid-cols-1 md:grid-cols-1 px-6 h-[95vh] gap-4 overflow-y-auto">
+          <!-- Always-visible info -->
+          <div class="mt-4 space-y-1">
+            <h3 class="text-lg font-semibold">{{ item.title }}</h3>
 
-      <div class="art-card group bg-white hover:shadow-xl flex flex-col p-4" v-for="art in homeArt"
-        :key="art.id">
-
-        <NuxtImg :src="art.image" class=" w-full h-auto block "></NuxtImg>
-
-        <div class="opacity-0  group-hover:opacity-100 flex duration-300 w-full border-2 py-4 justify-evenly">
-          <p class="art-card-title font-bold text-2xl">{{ art.title }}</p>
-          <p class="art-card-price text-lg  font-bold">${{ art.price }}</p>
-          <p class="art-card-size  ">{{ art.size }}</p>
-          <p class="art-card-medium">{{ art.medium }}</p>
-          <NuxtLink to="/" class="font-bold hover:text-red-300 text-xl">Purchase</NuxtLink>
-
+            <p class="text-gray-600">{{ item.size }}</p>
+            <p class="text-gray-600">{{ item.medium }}</p>
+            <p class="text-gray-800 font-bold">${{ item.price }}</p>
+            <NuxtLink :to="item.link">View</NuxtLink>
+          </div>
         </div>
-
-
-
       </div>
     </div>
-
-
-  </div>
+  </section>
 </template>

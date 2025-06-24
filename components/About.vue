@@ -8,11 +8,7 @@
         <h2 class="text-5xl font-bold mb-16">The Spear and the Bear</h2>
         <p class="text-xl">
 
-          The name Gerardo traces back to Germanic roots, meaning “spear” and "brave” or
-          “strong”. The name symbolizes courage and strength, an identity steeped in resilience and purpose.
-          Garcia is a Spanish surname with origins in the Basque country, where it often means “bear” or "oso"
-          This heritage blends both strength and instinct, qualities that lie at the heart of my art
-          studio, Lanza y Oso. </p>
+          I create because I must. I taught myself how to paint becasue there is something inside me that is begging to be revealed. </p>
 
         <NuxtImg src="/lanzayoso_logo_small.png" width="100px" class="self-center" />
 
