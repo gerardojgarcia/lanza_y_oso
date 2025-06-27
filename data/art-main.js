@@ -1,5 +1,17 @@
 export const homeArt = ref([
 
+
+    {
+        id: 20,
+        title: "Gerardo Garcia Ruiz, 37",
+        image: "/21stcenturyfrijole.png",
+        link:"/",
+        description: "Self Portrait in acryliic on paper",
+        price: "125",
+        size: "11 x 17 ",
+        medium: "Acrylic on paper"
+
+    },
  {
     id: 1,
     title: "Gerardo Garcia Ruiz,  36",
@@ -12,10 +24,11 @@ export const homeArt = ref([
 
   },
 
+
     {
-        id: 20,
-        title: "Gerardo Garcia Ruiz, 37",
-        image: "/21stcenturyfrijole.png",
+        id: 21,
+        title: "Jose Garcia Romero, 18",
+        image: "/josegarcia.png",
         link:"/",
         description: "Self Portrait in acryliic on paper",
         price: "125",
@@ -36,7 +49,7 @@ export const homeArt = ref([
 
   },
     {
-        id:20,
+        id:22,
         title: "Four Jars",
         image: "/four-jars.png",
         link:"/",
@@ -49,7 +62,7 @@ export const homeArt = ref([
     },
 
     {
-        id: 21,
+        id: 23,
         title: "Abuelita Chayo",
         image: "/abueliita-chayo.png",
         link:"/",
@@ -58,6 +71,17 @@ export const homeArt = ref([
         size: "11 x 14 ",
         medium: "Acrylic on paper"
 
+
+    },
+    {
+        id: 24,
+        title: "Reflection",
+        image: "/reflection.png",
+        link:"/",
+        description: "Self Portrait in acryliic on paper",
+        price: "125",
+        size: "11 x 17 ",
+        medium: "Acrylic on paper"
 
     },
 
@@ -251,7 +275,7 @@ export const homeArt = ref([
     {
         id: 18,
         title: "La Dama 2",
-        image: "/trensas.png",
+        image: "/ladama2.png",
         link:"/",
         description: "A woman standing with her back facing the audience, her hair is done in braids",
         price: "225",
