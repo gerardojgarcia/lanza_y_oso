@@ -25,6 +25,7 @@ const props = defineProps({
                 :src="item.image"
                 :alt="item.title"
                 class="w-full h-full object-cover transform transition-transform duration-300 hover:scale-105"
+                loading="lazy"
             />
           </NuxtLink>
 

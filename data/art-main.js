@@ -4,7 +4,7 @@ export const homeArt = ref([
     {
         id: 20,
         title: "Gerardo Garcia Ruiz, 37",
-        image: "/21stcenturyfrijole.png",
+        image: "/21stcenturyfrijole.webp",
         link:"/",
         description: "Self Portrait in acryliic on paper",
         price: "125",
@@ -15,7 +15,7 @@ export const homeArt = ref([
  {
     id: 1,
     title: "Gerardo Garcia Ruiz,  36",
-    image: "/self-portrait-25.png",
+    image: "/self-portrait-25.webp",
     link:"/",
     description: "Self Portrait in acryliic on paper",
     price: "125",
@@ -28,7 +28,7 @@ export const homeArt = ref([
     {
         id: 21,
         title: "Jose Garcia Romero, 18",
-        image: "/josegarcia.png",
+        image: "/josegarcia.webp",
         link:"/",
         description: "Self Portrait in acryliic on paper",
         price: "125",
@@ -39,7 +39,7 @@ export const homeArt = ref([
   {
     id: 2,
     title: "Jenny at Yosemite",
-    image: "/jenny_in_tenaya.png",
+    image: "/jenny_in_tenaya.webp",
     link:"/",
     description: "Jennifer in yosemite",
     price: "285",
@@ -51,7 +51,7 @@ export const homeArt = ref([
     {
         id:22,
         title: "Four Jars",
-        image: "/four-jars.png",
+        image: "/four-jars.webp",
         link:"/",
         description: "Jennifer in yosemite",
         price: "125",
@@ -64,7 +64,7 @@ export const homeArt = ref([
     {
         id: 23,
         title: "Abuelita Chayo",
-        image: "/abueliita-chayo.png",
+        image: "/abueliita-chayo.webp",
         link:"/",
         description: "Jennifer in yosemite",
         price: "285",
@@ -76,7 +76,7 @@ export const homeArt = ref([
     {
         id: 24,
         title: "Reflection",
-        image: "/reflection.png",
+        image: "/reflection.webp",
         link:"/",
         description: "Self Portrait in acryliic on paper",
         price: "125",
@@ -88,7 +88,7 @@ export const homeArt = ref([
   {
     id: 3,
     title: "The Nude",
-    image: "/the_nude.png",
+    image: "/the_nude.webp",
     link:"/",
     description: "Illustration of Self Help Graphics",
     price: "225",
@@ -99,7 +99,7 @@ export const homeArt = ref([
   {
     id: 4,
     title: "Jornaleros en el Campo",
-    image: "/jornaleros_en_el_campo.png",
+    image: "/jornaleros_en_el_campo.webp",
     link:"/",
     description: "Illustration of Self Help Graphics",
     price: "75",
@@ -110,7 +110,7 @@ export const homeArt = ref([
   {
     id: 5,
     title: "Senorita con Flores",
-    image: "/senorita_flowers.PNG",
+    image: "/senorita_flowers.webp",
     link:"/",
     description: "senorita con flores",
     price: "325",
@@ -121,7 +121,7 @@ export const homeArt = ref([
   {
     id: 6,
     title: "Jenny In Blue",
-    image: "/jenny_in_blue.png",
+    image: "/jenny_in_blue.webp",
     link:"/",
     description: "Illustration of Self Help Graphics",
     price: "1125",
@@ -132,7 +132,7 @@ export const homeArt = ref([
  {
     id: 7,
     title: "Naranjas",
-    image: "/dos_naranjas.png",
+    image: "/dos_naranjas.webp",
     link:"/",
     description: "Linoprint of workers harvesting agave in a field",
     price: "200",
@@ -154,7 +154,7 @@ export const homeArt = ref([
   {
     id: 9,
     title: "Mujer y La Noche",
-    image: "/mujer_y_la_noche.png",
+    image: "/mujer_y_la_noche.webp",
     link:"/",
     description: "Woman who cannot sleep, sits by the window in her kitchen. the glow of the comal lights the room",
     price: "825",
@@ -165,7 +165,7 @@ export const homeArt = ref([
    {
     id: 10,
     title: "Trensas",
-    image: "/trensas.png",
+    image: "/trensas.webp",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
     price: "175",
@@ -176,7 +176,7 @@ export const homeArt = ref([
   {
     id: 11,
     title: "Benjamin",
-    image: "/mi_abuelito_benjamin.png",
+    image: "/mi_abuelito_benjamin.webp",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
     price: "325",
@@ -187,7 +187,7 @@ export const homeArt = ref([
   {
     id: 12,
     title: "Golden Gate Bridge",
-    image: "/golden_gate_bridge.png",
+    image: "/golden_gate_bridge.webp",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
     price: "125",
@@ -198,7 +198,7 @@ export const homeArt = ref([
   {
     id: 13,
     title: "Horse Flats",
-    image: "/horse_flats.png",
+    image: "/horse_flats.webp",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
     price: "25",
@@ -209,7 +209,7 @@ export const homeArt = ref([
   {
     id: 14,
     title: "Day at the Beach",
-    image: "/day_at_the_beach.png",
+    image: "/day_at_the_beach.webp",
     link:"/",
     description: "A woman standing with her back facing the audience, her hair is done in braids",
     price: "225",
@@ -220,7 +220,7 @@ export const homeArt = ref([
     {
         id: 15,
         title: "Viejo en la Cocina",
-        image: "/viejoenlacocina.png",
+        image: "/viejoenlacocina.webp",
         link:"/",
         description: "old man standing in a kitchen that is lit by the dying stove's glow",
         price: "400",
@@ -231,7 +231,7 @@ export const homeArt = ref([
     {
         id: 16,
         title: "Cuerpo",
-        image: "/bodystudy.png",
+        image: "/bodystudy.webp",
         link:"/",
         description: "A woman standing with her back facing the audience, her hair is done in braids",
         price: "25",
@@ -242,7 +242,7 @@ export const homeArt = ref([
     {
         id: 17,
         title: "La Dama",
-        image: "/Ladamados.png",
+        image: "/Ladamados.webp",
         link:"/",
         description: "A woman standing with her back facing the audience, her hair is done in braids",
         price: "300",
@@ -253,7 +253,7 @@ export const homeArt = ref([
     {
         id: 17,
         title: "Percy",
-        image: "/vatopercy.png",
+        image: "/vatopercy.webp",
         link:"/",
         description: "A man wearing sunglasses",
         price: "125",
@@ -264,7 +264,7 @@ export const homeArt = ref([
     {
         id: 18,
         title: "Nude on Black",
-        image: "/nude3.png",
+        image: "/nude3.webp",
         link:"/",
         description: "A woman standing with her back facing the audience, her hair is done in braids",
         price: "125",
@@ -275,7 +275,7 @@ export const homeArt = ref([
     {
         id: 18,
         title: "La Dama 2",
-        image: "/ladama2.png",
+        image: "/ladama2.webp",
         link:"/",
         description: "A woman standing with her back facing the audience, her hair is done in braids",
         price: "225",
@@ -286,7 +286,7 @@ export const homeArt = ref([
     {
     id: 19,
     title: "Mujer Con Nopales",
-    image: "/Mujer_con_nopales.png",
+    image: "/Mujer_con_nopales.webp",
     link:"/",
     description: "Illustration of Self Help Graphics",
     price: "125",
